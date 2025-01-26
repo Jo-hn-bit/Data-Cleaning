@@ -1,0 +1,713 @@
+,Category,Item,Quantity,Price Per Unit,Total Spent,Payment Method,Transaction Date,Transaction Type,Day of Week
+16,Shopping,Car,4.0,59807.04,239228.17,Digital Wallet,11/27/23,In-store,Monday
+17,Shopping,Shoes,1.0,122.22,122.22,Cash,11/29/23,In-store,Wednesday
+20,Shopping,Clothes,3.0,37.8,113.4,Credit Card,11/6/24,In-store,Wednesday
+30,Shopping,Shoes,2.0,101.8,203.6,Credit Card,6/13/24,In-store,Thursday
+36,Shopping,Car,1.0,48275.65,48275.65,Debit Card,9/30/23,Online,Saturday
+57,Shopping,Clothes,5.0,50.16,250.78,Debit Card,1/17/24,Online,Wednesday
+65,Shopping,Shoes,1.0,115.84,115.84,Debit Card,1/25/24,Online,Thursday
+82,Shopping,Car,2.0,37755.26,75510.53,Debit Card,1/25/23,Online,Wednesday
+100,Shopping,Car,3.0,7426.56,22279.68,Digital Wallet,12/3/24,In-store,Tuesday
+102,Shopping,Clothes,4.0,85.88,343.53,Digital Wallet,4/22/24,Online,Monday
+124,Shopping,Shoes,4.0,174.96,699.83,Cash,10/25/24,In-store,Friday
+128,Shopping,Electronics,2.0,707.63,1415.26,Debit Card,7/6/24,Online,Saturday
+130,Shopping,Car,1.0,66772.13,66772.13,Credit Card,1/3/24,In-store,Wednesday
+132,Shopping,Car,1.0,19414.26,19414.26,Cash,12/6/23,In-store,Wednesday
+136,Shopping,Clothes,5.0,39.82,199.12,Debit Card,11/12/24,In-store,Tuesday
+149,Shopping,Shoes,1.0,111.54,111.54,Debit Card,8/9/23,In-store,Wednesday
+160,Shopping,Electronics,1.0,1117.63,1117.63,Cash,11/29/23,In-store,Wednesday
+162,Shopping,Shoes,3.0,59.11,177.34,Digital Wallet,7/9/24,In-store,Tuesday
+163,Shopping,Clothes,2.0,90.3,180.61,Cash,4/15/23,In-store,Saturday
+176,Shopping,Shoes,1.0,92.6,92.6,Credit Card,2/18/24,In-store,Sunday
+200,Shopping,Shoes,1.0,116.8,116.8,Digital Wallet,9/3/24,In-store,Tuesday
+201,Shopping,Clothes,5.0,54.46,272.32,Digital Wallet,8/10/24,In-store,Saturday
+221,Shopping,Electronics,5.0,736.18,3680.89,Debit Card,1/27/24,In-store,Saturday
+223,Shopping,Clothes,1.0,24.71,24.71,Credit Card,5/15/24,In-store,Wednesday
+227,Shopping,Electronics,1.0,1373.3,1373.3,Debit Card,7/19/23,Online,Wednesday
+260,Shopping,Electronics,4.0,746.9,2987.62,Cash,6/24/24,Online,Monday
+274,Shopping,Electronics,5.0,1029.75,5148.76,Cash,10/5/23,In-store,Thursday
+285,Shopping,Clothes,3.0,33.58,100.74,Digital Wallet,2/29/24,In-store,Thursday
+296,Shopping,Shoes,5.0,71.99,359.93,Debit Card,3/8/23,Online,Wednesday
+339,Shopping,Car,4.0,41577.93,166311.73,Credit Card,11/2/24,In-store,Saturday
+385,Shopping,Electronics,1.0,1364.92,1364.92,Digital Wallet,12/22/24,In-store,Sunday
+387,Shopping,Electronics,1.0,598.8,598.8,Cash,2/28/24,In-store,Wednesday
+407,Shopping,Clothes,5.0,144.94,724.71,Cash,5/6/23,Online,Saturday
+418,Shopping,Electronics,4.0,574.68,2298.72,Credit Card,4/20/24,Online,Saturday
+420,Shopping,Shoes,3.0,134.63,403.89,Credit Card,12/26/23,Online,Tuesday
+423,Shopping,Clothes,3.0,96.39,289.18,Debit Card,11/9/23,Online,Thursday
+425,Shopping,Clothes,3.0,44.63,133.89,Cash,11/16/23,In-store,Thursday
+430,Shopping,Shoes,2.0,110.95,221.9,Debit Card,9/27/23,Online,Wednesday
+443,Shopping,Shoes,2.0,38.37,76.73,Cash,12/20/23,In-store,Wednesday
+449,Shopping,Car,4.0,47605.47,190421.89,Credit Card,8/28/23,In-store,Monday
+484,Shopping,Clothes,5.0,106.69,533.43,Debit Card,9/4/23,Online,Monday
+504,Shopping,Clothes,3.0,99.57,298.71,Cash,3/3/24,In-store,Sunday
+512,Shopping,Electronics,1.0,172.93,172.93,Credit Card,7/19/24,Online,Friday
+534,Shopping,Car,2.0,31916.81,63833.61,Debit Card,7/3/24,In-store,Wednesday
+541,Shopping,Clothes,3.0,69.98,209.94,Credit Card,9/27/23,Online,Wednesday
+559,Shopping,Electronics,3.0,447.62,1342.86,Digital Wallet,1/22/23,In-store,Sunday
+567,Shopping,Shoes,4.0,106.25,425.02,Digital Wallet,10/5/24,In-store,Saturday
+577,Shopping,Clothes,2.0,144.76,289.53,Cash,3/30/23,Online,Thursday
+600,Shopping,Clothes,2.0,105.5,211.0,Credit Card,1/4/24,In-store,Thursday
+610,Shopping,Car,3.0,44844.78,134534.35,Cash,10/17/24,Online,Thursday
+618,Shopping,Shoes,5.0,123.01,615.06,Credit Card,4/8/23,Online,Saturday
+649,Shopping,Electronics,3.0,382.72,1148.17,Digital Wallet,10/13/23,Online,Friday
+657,Shopping,Clothes,2.0,135.68,271.36,Digital Wallet,3/27/23,Online,Monday
+664,Shopping,Car,1.0,55378.84,55378.84,Debit Card,2/2/24,Online,Friday
+688,Shopping,Clothes,2.0,138.14,276.29,Debit Card,8/13/24,In-store,Tuesday
+742,Shopping,Car,2.0,50447.12,100894.24,Cash,4/5/23,In-store,Wednesday
+760,Shopping,Shoes,3.0,174.43,523.28,Cash,8/24/23,In-store,Thursday
+763,Shopping,Shoes,5.0,85.78,428.88,Credit Card,1/12/23,In-store,Thursday
+810,Shopping,Car,1.0,16613.88,16613.88,Debit Card,7/15/23,In-store,Saturday
+811,Shopping,Clothes,1.0,134.95,134.95,Credit Card,1/2/24,Online,Tuesday
+846,Shopping,Car,4.0,44355.26,177421.04,Cash,4/22/24,In-store,Monday
+853,Shopping,Car,4.0,16862.05,67448.2,Digital Wallet,7/11/23,In-store,Tuesday
+874,Shopping,Electronics,3.0,1204.67,3614.0,Digital Wallet,1/6/25,In-store,Monday
+880,Shopping,Electronics,5.0,881.56,4407.79,Credit Card,8/18/24,In-store,Sunday
+881,Shopping,Shoes,5.0,36.65,183.23,Credit Card,1/6/24,Online,Saturday
+905,Shopping,Clothes,5.0,112.96,564.79,Credit Card,2/16/24,In-store,Friday
+911,Shopping,Clothes,4.0,85.65,342.6,Digital Wallet,6/12/24,Online,Wednesday
+965,Shopping,Shoes,3.0,80.6,241.79,Debit Card,1/7/23,In-store,Saturday
+988,Shopping,Shoes,1.0,80.71,80.71,Cash,2/23/24,In-store,Friday
+1011,Shopping,Clothes,3.0,73.44,220.32,Digital Wallet,6/16/23,In-store,Friday
+1016,Shopping,Clothes,1.0,69.13,69.13,Credit Card,9/26/24,In-store,Thursday
+1018,Shopping,Car,5.0,44071.19,220355.95,Digital Wallet,6/18/23,In-store,Sunday
+1020,Shopping,Car,2.0,30688.78,61377.57,Digital Wallet,10/19/24,Online,Saturday
+1060,Shopping,Clothes,1.0,66.14,66.14,Digital Wallet,5/21/24,Online,Tuesday
+1081,Shopping,Clothes,3.0,145.56,436.68,Credit Card,9/14/23,Online,Thursday
+1092,Shopping,Clothes,2.0,79.52,159.03,Cash,4/26/23,Online,Wednesday
+1108,Shopping,Clothes,2.0,139.33,278.66,Cash,4/23/23,In-store,Sunday
+1114,Shopping,Clothes,5.0,109.56,547.82,Credit Card,9/23/24,Online,Monday
+1122,Shopping,Car,5.0,61981.12,309905.6,Credit Card,5/6/24,In-store,Monday
+1146,Shopping,Car,5.0,8952.26,44761.29,Cash,5/9/24,In-store,Thursday
+1197,Shopping,Car,3.0,44596.16,133788.47,Cash,2/19/24,Online,Monday
+1204,Shopping,Car,5.0,47607.71,238038.57,Cash,1/17/23,In-store,Tuesday
+1212,Shopping,Shoes,2.0,73.36,146.73,Credit Card,12/17/23,In-store,Sunday
+1242,Shopping,Car,5.0,49529.41,247647.06,Digital Wallet,7/10/24,Online,Wednesday
+1255,Shopping,Car,5.0,54926.08,274630.42,Digital Wallet,10/30/23,In-store,Monday
+1267,Shopping,Shoes,5.0,134.59,672.97,Digital Wallet,10/1/24,In-store,Tuesday
+1311,Shopping,Electronics,3.0,464.37,1393.11,Debit Card,2/15/23,Online,Wednesday
+1356,Shopping,Shoes,2.0,191.63,383.27,Cash,1/20/24,Online,Saturday
+1362,Shopping,Clothes,3.0,141.44,424.33,Cash,1/9/25,Online,Thursday
+1388,Shopping,Clothes,2.0,74.13,148.26,Debit Card,12/27/24,In-store,Friday
+1389,Shopping,Electronics,2.0,613.11,1226.23,Debit Card,1/25/24,In-store,Thursday
+1398,Shopping,Shoes,5.0,55.5,277.52,Digital Wallet,7/15/23,Online,Saturday
+1425,Shopping,Shoes,2.0,140.66,281.32,Debit Card,4/24/23,In-store,Monday
+1431,Shopping,Clothes,1.0,34.79,34.79,Digital Wallet,2/13/24,In-store,Tuesday
+1432,Shopping,Clothes,3.0,81.86,245.58,Debit Card,8/5/24,Online,Monday
+1471,Shopping,Electronics,5.0,1372.78,6863.9,Credit Card,2/18/23,Online,Saturday
+1478,Shopping,Clothes,4.0,113.22,452.88,Debit Card,6/26/24,Online,Wednesday
+1482,Shopping,Clothes,5.0,107.31,536.57,Digital Wallet,6/26/24,In-store,Wednesday
+1490,Shopping,Shoes,3.0,127.4,382.19,Credit Card,1/20/23,In-store,Friday
+1495,Shopping,Shoes,2.0,42.87,85.73,Debit Card,4/1/24,Online,Monday
+1505,Shopping,Car,4.0,26025.3,104101.2,Cash,5/31/24,In-store,Friday
+1516,Shopping,Car,1.0,39134.7,39134.7,Debit Card,2/27/24,Online,Tuesday
+1520,Shopping,Electronics,3.0,1186.53,3559.58,Debit Card,8/8/24,Online,Thursday
+1539,Shopping,Car,3.0,6459.82,19379.47,Credit Card,1/15/24,Online,Monday
+1612,Shopping,Electronics,5.0,740.77,3703.87,Debit Card,6/24/24,Online,Monday
+1668,Shopping,Shoes,5.0,177.09,885.43,Cash,2/20/24,Online,Tuesday
+1673,Shopping,Electronics,4.0,687.65,2750.59,Cash,8/22/24,Online,Thursday
+1680,Shopping,Car,1.0,69238.4,69238.4,Cash,9/25/24,Online,Wednesday
+1710,Shopping,Shoes,1.0,54.53,54.53,Credit Card,4/19/24,Online,Friday
+1715,Shopping,Shoes,1.0,138.36,138.36,Digital Wallet,1/7/24,In-store,Sunday
+1742,Shopping,Electronics,1.0,756.74,756.74,Digital Wallet,12/22/23,Online,Friday
+1772,Shopping,Electronics,4.0,355.34,1421.37,Credit Card,11/23/23,Online,Thursday
+1778,Shopping,Car,3.0,51529.72,154589.16,Digital Wallet,1/2/23,Online,Monday
+1827,Shopping,Clothes,3.0,111.99,335.98,Credit Card,5/13/23,Online,Saturday
+1837,Shopping,Shoes,5.0,65.23,326.13,Debit Card,1/30/23,Online,Monday
+1847,Shopping,Clothes,3.0,90.49,271.47,Credit Card,2/3/23,In-store,Friday
+1869,Shopping,Shoes,3.0,38.01,114.02,Digital Wallet,3/12/23,Online,Sunday
+1914,Shopping,Clothes,4.0,133.25,533.01,Debit Card,11/24/24,Online,Sunday
+1938,Shopping,Shoes,2.0,77.76,155.52,Digital Wallet,7/4/23,In-store,Tuesday
+1956,Shopping,Electronics,1.0,817.92,817.92,Debit Card,6/29/24,In-store,Saturday
+1960,Shopping,Electronics,1.0,226.09,226.09,Credit Card,8/25/23,Online,Friday
+1974,Shopping,Car,1.0,45856.74,45856.74,Digital Wallet,10/23/24,In-store,Wednesday
+1975,Shopping,Clothes,1.0,102.33,102.33,Cash,6/23/24,Online,Sunday
+1993,Shopping,Car,4.0,28129.63,112518.54,Credit Card,10/28/23,Online,Saturday
+1994,Shopping,Shoes,5.0,138.17,690.84,Debit Card,9/7/24,In-store,Saturday
+2000,Shopping,Car,1.0,56078.04,56078.04,Cash,11/19/24,In-store,Tuesday
+2004,Shopping,Clothes,4.0,79.86,319.43,Cash,7/5/24,Online,Friday
+2055,Shopping,Clothes,1.0,49.74,49.74,Debit Card,8/24/24,In-store,Saturday
+2075,Shopping,Clothes,3.0,22.75,68.26,Cash,8/7/24,Online,Wednesday
+2082,Shopping,Electronics,5.0,122.35,611.74,Digital Wallet,6/29/23,In-store,Thursday
+2124,Shopping,Clothes,2.0,31.86,63.72,Digital Wallet,1/12/25,In-store,Sunday
+2126,Shopping,Car,4.0,41550.65,166202.6,Credit Card,3/2/23,Online,Thursday
+2130,Shopping,Shoes,3.0,103.03,309.09,Digital Wallet,8/3/23,In-store,Thursday
+2161,Shopping,Shoes,5.0,65.22,326.12,Credit Card,4/4/24,Online,Thursday
+2180,Shopping,Car,1.0,36379.44,36379.44,Credit Card,8/22/23,Online,Tuesday
+2194,Shopping,Electronics,3.0,810.53,2431.59,Cash,8/30/23,Online,Wednesday
+2197,Shopping,Car,1.0,19834.25,19834.25,Cash,12/18/24,In-store,Wednesday
+2218,Shopping,Car,5.0,7272.33,36361.65,Debit Card,5/27/23,In-store,Saturday
+2228,Shopping,Clothes,4.0,40.3,161.22,Debit Card,7/13/24,Online,Saturday
+2241,Shopping,Clothes,3.0,32.02,96.05,Credit Card,9/28/24,Online,Saturday
+2246,Shopping,Electronics,2.0,352.01,704.03,Digital Wallet,6/27/23,In-store,Tuesday
+2274,Shopping,Clothes,5.0,43.15,215.73,Cash,9/17/24,Online,Tuesday
+2277,Shopping,Shoes,3.0,123.18,369.54,Cash,6/28/24,In-store,Friday
+2286,Shopping,Shoes,5.0,99.29,496.46,Debit Card,6/4/23,In-store,Sunday
+2295,Shopping,Shoes,2.0,187.27,374.55,Digital Wallet,12/16/23,Online,Saturday
+2298,Shopping,Shoes,4.0,54.6,218.41,Credit Card,2/8/23,Online,Wednesday
+2300,Shopping,Clothes,3.0,98.14,294.41,Cash,12/9/24,Online,Monday
+2314,Shopping,Electronics,1.0,788.03,788.03,Digital Wallet,8/29/24,Online,Thursday
+2318,Shopping,Clothes,1.0,129.98,129.98,Digital Wallet,1/16/23,Online,Monday
+2319,Shopping,Car,1.0,1796.51,1796.51,Debit Card,1/7/24,In-store,Sunday
+2326,Shopping,Shoes,2.0,81.24,162.48,Credit Card,11/9/24,In-store,Saturday
+2327,Shopping,Car,2.0,62899.3,125798.6,Debit Card,4/1/23,Online,Saturday
+2343,Shopping,Shoes,1.0,160.68,160.68,Digital Wallet,11/12/24,Online,Tuesday
+2361,Shopping,Electronics,3.0,216.63,649.88,Digital Wallet,1/5/24,In-store,Friday
+2402,Shopping,Car,3.0,56143.59,168430.76,Digital Wallet,1/15/24,Online,Monday
+2403,Shopping,Electronics,1.0,977.55,977.55,Debit Card,5/21/23,In-store,Sunday
+2408,Shopping,Shoes,1.0,33.71,33.71,Credit Card,7/11/24,Online,Thursday
+2454,Shopping,Shoes,3.0,128.54,385.62,Debit Card,1/10/24,Online,Wednesday
+2460,Shopping,Shoes,1.0,115.75,115.75,Cash,5/2/24,In-store,Thursday
+2469,Shopping,Electronics,3.0,893.15,2679.45,Digital Wallet,1/5/25,In-store,Sunday
+2471,Shopping,Electronics,5.0,1400.33,7001.64,Digital Wallet,11/25/23,In-store,Saturday
+2479,Shopping,Electronics,1.0,666.05,666.05,Cash,11/6/24,Online,Wednesday
+2483,Shopping,Electronics,5.0,688.77,3443.87,Digital Wallet,1/1/25,Online,Wednesday
+2485,Shopping,Car,1.0,39238.85,39238.85,Cash,5/24/24,Online,Friday
+2490,Shopping,Shoes,2.0,31.92,63.85,Cash,6/21/23,In-store,Wednesday
+2497,Shopping,Shoes,2.0,140.75,281.51,Digital Wallet,1/31/24,Online,Wednesday
+2503,Shopping,Car,4.0,25996.51,103986.04,Digital Wallet,10/31/23,In-store,Tuesday
+2534,Shopping,Car,2.0,27236.29,54472.59,Digital Wallet,7/26/23,Online,Wednesday
+2535,Shopping,Electronics,5.0,1373.53,6867.67,Digital Wallet,8/30/23,In-store,Wednesday
+2539,Shopping,Electronics,1.0,794.68,794.68,Credit Card,3/22/24,Online,Friday
+2544,Shopping,Shoes,3.0,78.04,234.12,Debit Card,8/4/24,In-store,Sunday
+2576,Shopping,Clothes,3.0,36.97,110.9,Digital Wallet,2/9/24,Online,Friday
+2606,Shopping,Clothes,4.0,65.81,263.25,Digital Wallet,7/27/23,Online,Thursday
+2611,Shopping,Car,3.0,55447.31,166341.93,Cash,6/22/23,In-store,Thursday
+2620,Shopping,Electronics,1.0,1371.15,1371.15,Credit Card,3/13/24,In-store,Wednesday
+2622,Shopping,Shoes,1.0,30.81,30.81,Credit Card,12/11/23,In-store,Monday
+2628,Shopping,Car,3.0,6978.17,20934.52,Debit Card,2/19/24,Online,Monday
+2631,Shopping,Clothes,4.0,106.06,424.24,Cash,11/3/23,In-store,Friday
+2637,Shopping,Electronics,1.0,1111.08,1111.08,Cash,4/14/23,In-store,Friday
+2668,Shopping,Car,3.0,51825.25,155475.75,Credit Card,11/22/23,Online,Wednesday
+2681,Shopping,Shoes,2.0,148.45,296.9,Cash,8/14/24,In-store,Wednesday
+2685,Shopping,Clothes,3.0,33.62,100.85,Debit Card,9/30/23,Online,Saturday
+2690,Shopping,Electronics,3.0,515.41,1546.23,Cash,4/28/24,In-store,Sunday
+2691,Shopping,Electronics,3.0,412.75,1238.26,Debit Card,4/23/23,In-store,Sunday
+2725,Shopping,Clothes,4.0,132.69,530.77,Cash,2/20/23,In-store,Monday
+2735,Shopping,Shoes,3.0,186.46,559.38,Cash,10/6/24,In-store,Sunday
+2766,Shopping,Electronics,5.0,878.91,4394.54,Credit Card,4/12/23,In-store,Wednesday
+2767,Shopping,Clothes,5.0,99.43,497.16,Digital Wallet,6/23/23,Online,Friday
+2774,Shopping,Clothes,3.0,28.08,84.24,Digital Wallet,10/8/24,In-store,Tuesday
+2807,Shopping,Electronics,2.0,747.11,1494.23,Credit Card,10/16/23,Online,Monday
+2812,Shopping,Electronics,4.0,1295.25,5181.0,Digital Wallet,11/24/24,Online,Sunday
+2814,Shopping,Clothes,5.0,88.94,444.72,Debit Card,1/16/24,In-store,Tuesday
+2819,Shopping,Car,2.0,73627.13,147254.26,Credit Card,11/1/23,In-store,Wednesday
+2820,Shopping,Car,3.0,49009.08,147027.25,Debit Card,12/2/24,In-store,Monday
+2823,Shopping,Clothes,3.0,59.44,178.31,Digital Wallet,2/18/24,Online,Sunday
+2834,Shopping,Car,1.0,21481.8,21481.8,Digital Wallet,3/1/23,In-store,Wednesday
+2836,Shopping,Shoes,4.0,111.95,447.79,Debit Card,2/28/23,Online,Tuesday
+2837,Shopping,Shoes,5.0,165.12,825.58,Digital Wallet,5/29/23,In-store,Monday
+2845,Shopping,Shoes,4.0,131.61,526.45,Cash,10/22/23,Online,Sunday
+2848,Shopping,Car,3.0,29756.88,89270.65,Digital Wallet,6/11/23,Online,Sunday
+2854,Shopping,Electronics,4.0,1360.89,5443.55,Digital Wallet,7/19/23,In-store,Wednesday
+2867,Shopping,Shoes,2.0,192.1,384.21,Credit Card,3/24/24,Online,Sunday
+2872,Shopping,Electronics,3.0,754.01,2262.03,Debit Card,2/13/23,Online,Monday
+2893,Shopping,Clothes,3.0,115.61,346.82,Cash,2/18/24,In-store,Sunday
+2909,Shopping,Clothes,2.0,62.54,125.08,Cash,7/15/24,Online,Monday
+2917,Shopping,Electronics,1.0,183.72,183.72,Credit Card,10/10/24,Online,Thursday
+2964,Shopping,Electronics,2.0,1374.11,2748.21,Cash,4/5/24,In-store,Friday
+2976,Shopping,Shoes,2.0,188.3,376.59,Cash,12/1/24,Online,Sunday
+2980,Shopping,Electronics,3.0,798.52,2395.57,Cash,1/13/25,Online,Monday
+2985,Shopping,Car,1.0,62099.21,62099.21,Digital Wallet,1/12/24,In-store,Friday
+2990,Shopping,Clothes,2.0,67.88,135.76,Debit Card,6/22/23,Online,Thursday
+2992,Shopping,Shoes,5.0,69.39,346.95,Debit Card,4/12/24,Online,Friday
+2994,Shopping,Clothes,2.0,85.62,171.23,Cash,9/4/24,Online,Wednesday
+3031,Shopping,Clothes,5.0,121.39,606.95,Debit Card,5/14/24,In-store,Tuesday
+3049,Shopping,Electronics,2.0,1279.64,2559.27,Credit Card,7/8/24,Online,Monday
+3080,Shopping,Electronics,1.0,141.94,141.94,Digital Wallet,9/10/23,Online,Sunday
+3085,Shopping,Clothes,5.0,86.86,434.32,Digital Wallet,7/6/23,Online,Thursday
+3087,Shopping,Electronics,4.0,1409.14,5636.56,Digital Wallet,9/7/23,In-store,Thursday
+3092,Shopping,Shoes,3.0,93.7,281.09,Credit Card,12/3/24,In-store,Tuesday
+3099,Shopping,Electronics,4.0,1244.47,4977.89,Digital Wallet,2/8/24,In-store,Thursday
+3107,Shopping,Clothes,3.0,123.17,369.52,Digital Wallet,11/1/24,In-store,Friday
+3126,Shopping,Electronics,1.0,583.46,583.46,Credit Card,9/23/23,In-store,Saturday
+3138,Shopping,Electronics,4.0,1030.98,4123.9,Cash,11/17/23,Online,Friday
+3149,Shopping,Electronics,3.0,480.46,1441.37,Digital Wallet,10/17/23,In-store,Tuesday
+3153,Shopping,Clothes,1.0,110.03,110.03,Digital Wallet,12/15/23,Online,Friday
+3182,Shopping,Electronics,2.0,868.21,1736.42,Credit Card,12/1/24,Online,Sunday
+3230,Shopping,Clothes,3.0,118.18,354.53,Credit Card,11/7/23,Online,Tuesday
+3247,Shopping,Shoes,1.0,167.65,167.65,Debit Card,2/8/24,In-store,Thursday
+3252,Shopping,Car,4.0,41656.84,166627.35,Digital Wallet,7/29/23,In-store,Saturday
+3255,Shopping,Shoes,1.0,196.45,196.45,Cash,8/22/24,In-store,Thursday
+3279,Shopping,Clothes,2.0,90.89,181.78,Digital Wallet,3/18/24,In-store,Monday
+3285,Shopping,Electronics,4.0,947.32,3789.27,Credit Card,10/13/23,Online,Friday
+3291,Shopping,Shoes,4.0,102.53,410.13,Debit Card,5/21/23,In-store,Sunday
+3292,Shopping,Electronics,1.0,1282.88,1282.88,Credit Card,1/15/23,Online,Sunday
+3298,Shopping,Car,3.0,12175.85,36527.56,Digital Wallet,2/7/24,In-store,Wednesday
+3302,Shopping,Car,2.0,3849.22,7698.43,Debit Card,1/19/23,Online,Thursday
+3306,Shopping,Electronics,1.0,215.84,215.84,Cash,9/25/24,In-store,Wednesday
+3325,Shopping,Car,5.0,48995.56,244977.8,Cash,10/24/24,In-store,Thursday
+3327,Shopping,Clothes,5.0,64.71,323.55,Cash,1/20/24,In-store,Saturday
+3332,Shopping,Electronics,5.0,344.22,1721.1,Digital Wallet,3/25/24,In-store,Monday
+3333,Shopping,Clothes,3.0,67.56,202.67,Debit Card,4/22/24,In-store,Monday
+3340,Shopping,Car,3.0,51111.46,153334.39,Digital Wallet,1/26/24,In-store,Friday
+3343,Shopping,Electronics,4.0,319.56,1278.23,Credit Card,5/10/24,Online,Friday
+3349,Shopping,Electronics,3.0,371.44,1114.32,Credit Card,6/20/23,Online,Tuesday
+3369,Shopping,Electronics,4.0,1092.49,4369.96,Credit Card,11/18/24,In-store,Monday
+3389,Shopping,Car,5.0,70446.15,352230.76,Credit Card,12/13/23,Online,Wednesday
+3430,Shopping,Shoes,4.0,40.95,163.81,Debit Card,7/21/23,Online,Friday
+3480,Shopping,Electronics,2.0,455.52,911.04,Debit Card,6/10/24,In-store,Monday
+3490,Shopping,Car,1.0,42886.51,42886.51,Cash,3/3/24,In-store,Sunday
+3512,Shopping,Clothes,5.0,68.08,340.38,Digital Wallet,1/31/24,Online,Wednesday
+3523,Shopping,Car,5.0,27570.17,137850.83,Debit Card,10/30/24,In-store,Wednesday
+3530,Shopping,Clothes,4.0,28.91,115.64,Debit Card,11/25/24,Online,Monday
+3545,Shopping,Car,2.0,42425.22,84850.45,Debit Card,3/17/23,In-store,Friday
+3557,Shopping,Clothes,1.0,39.59,39.59,Cash,10/28/23,Online,Saturday
+3577,Shopping,Clothes,3.0,110.31,330.93,Debit Card,12/17/23,In-store,Sunday
+3596,Shopping,Car,5.0,66191.38,330956.88,Cash,2/6/24,In-store,Tuesday
+3619,Shopping,Clothes,2.0,136.81,273.62,Credit Card,5/27/24,In-store,Monday
+3635,Shopping,Shoes,4.0,165.35,661.39,Cash,7/3/23,Online,Monday
+3645,Shopping,Car,3.0,56344.65,169033.95,Cash,9/11/23,Online,Monday
+3656,Shopping,Shoes,4.0,65.76,263.05,Cash,6/17/23,Online,Saturday
+3670,Shopping,Clothes,4.0,135.12,540.49,Digital Wallet,2/17/24,Online,Saturday
+3706,Shopping,Electronics,3.0,286.86,860.59,Credit Card,3/29/23,Online,Wednesday
+3726,Shopping,Electronics,3.0,695.64,2086.92,Digital Wallet,12/2/24,In-store,Monday
+3728,Shopping,Car,1.0,74246.46,74246.46,Debit Card,1/15/23,Online,Sunday
+3733,Shopping,Electronics,3.0,1265.54,3796.62,Cash,6/18/23,Online,Sunday
+3738,Shopping,Electronics,4.0,1228.54,4914.16,Credit Card,1/26/23,In-store,Thursday
+3756,Shopping,Shoes,4.0,151.79,607.14,Cash,11/16/23,Online,Thursday
+3762,Shopping,Shoes,3.0,183.15,549.46,Debit Card,9/22/23,In-store,Friday
+3773,Shopping,Clothes,1.0,70.6,70.6,Digital Wallet,9/1/23,Online,Friday
+3824,Shopping,Electronics,2.0,1245.43,2490.86,Credit Card,10/11/23,Online,Wednesday
+3831,Shopping,Shoes,5.0,30.12,150.59,Digital Wallet,5/31/24,In-store,Friday
+3867,Shopping,Shoes,4.0,85.29,341.15,Cash,1/10/23,In-store,Tuesday
+3887,Shopping,Electronics,3.0,603.74,1811.22,Credit Card,5/17/24,In-store,Friday
+3899,Shopping,Electronics,4.0,466.98,1867.92,Digital Wallet,3/3/24,In-store,Sunday
+3929,Shopping,Electronics,4.0,1038.26,4153.05,Debit Card,11/21/23,Online,Tuesday
+3942,Shopping,Electronics,1.0,393.58,393.58,Debit Card,5/15/24,Online,Wednesday
+3947,Shopping,Electronics,2.0,143.15,286.3,Digital Wallet,11/3/23,Online,Friday
+3976,Shopping,Car,1.0,4404.11,4404.11,Debit Card,4/4/24,Online,Thursday
+3992,Shopping,Car,3.0,40405.74,121217.21,Digital Wallet,10/8/23,Online,Sunday
+4000,Shopping,Shoes,4.0,140.23,560.91,Debit Card,3/14/24,Online,Thursday
+4016,Shopping,Shoes,1.0,126.48,126.48,Debit Card,9/8/23,Online,Friday
+4027,Shopping,Electronics,1.0,1209.58,1209.58,Cash,8/17/23,In-store,Thursday
+4042,Shopping,Shoes,5.0,170.88,854.38,Debit Card,4/22/23,In-store,Saturday
+4045,Shopping,Car,2.0,69202.13,138404.27,Cash,5/10/24,Online,Friday
+4084,Shopping,Clothes,3.0,85.53,256.58,Digital Wallet,5/4/24,Online,Saturday
+4086,Shopping,Car,1.0,48468.04,48468.04,Credit Card,1/30/23,In-store,Monday
+4092,Shopping,Electronics,5.0,1422.23,7111.15,Cash,7/29/24,In-store,Monday
+4093,Shopping,Electronics,1.0,1163.18,1163.18,Debit Card,9/1/23,Online,Friday
+4119,Shopping,Electronics,4.0,716.26,2865.02,Cash,12/30/24,Online,Monday
+4121,Shopping,Clothes,3.0,102.54,307.61,Cash,10/20/24,In-store,Sunday
+4124,Shopping,Electronics,3.0,803.04,2409.12,Credit Card,10/19/23,Online,Thursday
+4133,Shopping,Shoes,4.0,88.55,354.21,Cash,1/14/24,Online,Sunday
+4137,Shopping,Electronics,3.0,136.18,408.53,Credit Card,3/7/23,Online,Tuesday
+4142,Shopping,Car,4.0,27662.7,110650.79,Digital Wallet,4/23/23,Online,Sunday
+4146,Shopping,Electronics,5.0,637.62,3188.08,Debit Card,1/25/24,Online,Thursday
+4151,Shopping,Shoes,2.0,70.82,141.64,Debit Card,2/25/24,In-store,Sunday
+4153,Shopping,Electronics,5.0,550.66,2753.29,Digital Wallet,8/12/23,In-store,Saturday
+4172,Shopping,Clothes,5.0,98.12,490.59,Debit Card,2/9/24,Online,Friday
+4176,Shopping,Electronics,3.0,176.85,530.55,Debit Card,10/12/23,In-store,Thursday
+4182,Shopping,Electronics,2.0,1365.21,2730.42,Debit Card,8/29/23,In-store,Tuesday
+4187,Shopping,Car,4.0,59258.17,237032.68,Digital Wallet,6/18/23,In-store,Sunday
+4214,Shopping,Car,3.0,28994.06,86982.19,Digital Wallet,12/13/24,In-store,Friday
+4219,Shopping,Electronics,1.0,390.67,390.67,Credit Card,9/19/24,Online,Thursday
+4223,Shopping,Shoes,4.0,49.66,198.65,Cash,11/9/23,Online,Thursday
+4239,Shopping,Shoes,4.0,51.46,205.84,Cash,3/10/24,Online,Sunday
+4240,Shopping,Clothes,4.0,70.71,282.83,Digital Wallet,2/18/24,Online,Sunday
+4254,Shopping,Clothes,5.0,129.8,648.98,Digital Wallet,2/5/23,In-store,Sunday
+4266,Shopping,Car,3.0,28988.98,86966.94,Debit Card,6/1/23,In-store,Thursday
+4277,Shopping,Car,3.0,28232.55,84697.66,Debit Card,6/27/24,In-store,Thursday
+4286,Shopping,Electronics,2.0,1209.58,2419.16,Debit Card,4/1/24,In-store,Monday
+4311,Shopping,Car,4.0,42727.83,170911.33,Digital Wallet,6/16/24,Online,Sunday
+4322,Shopping,Electronics,5.0,1380.17,6900.84,Digital Wallet,11/13/24,Online,Wednesday
+4338,Shopping,Electronics,3.0,1247.02,3741.06,Credit Card,11/21/23,In-store,Tuesday
+4349,Shopping,Shoes,4.0,161.3,645.2,Digital Wallet,8/10/24,In-store,Saturday
+4357,Shopping,Car,5.0,9172.17,45860.87,Cash,12/30/24,Online,Monday
+4363,Shopping,Clothes,4.0,21.37,85.47,Credit Card,9/30/23,Online,Saturday
+4372,Shopping,Shoes,1.0,64.11,64.11,Cash,9/27/24,In-store,Friday
+4373,Shopping,Shoes,1.0,165.87,165.87,Credit Card,3/30/24,In-store,Saturday
+4387,Shopping,Car,3.0,30890.1,92670.3,Cash,5/16/24,Online,Thursday
+4388,Shopping,Electronics,4.0,745.72,2982.89,Digital Wallet,10/17/24,In-store,Thursday
+4415,Shopping,Shoes,4.0,178.73,714.93,Debit Card,8/28/23,In-store,Monday
+4416,Shopping,Clothes,5.0,58.94,294.72,Digital Wallet,8/24/24,In-store,Saturday
+4461,Shopping,Electronics,2.0,1497.61,2995.22,Credit Card,4/19/23,Online,Wednesday
+4465,Shopping,Clothes,3.0,30.6,91.79,Credit Card,5/22/24,In-store,Wednesday
+4467,Shopping,Electronics,4.0,554.88,2219.5,Debit Card,1/11/25,In-store,Saturday
+4488,Shopping,Clothes,3.0,57.68,173.04,Credit Card,5/4/24,In-store,Saturday
+4510,Shopping,Clothes,3.0,107.62,322.86,Cash,9/22/24,In-store,Sunday
+4522,Shopping,Clothes,4.0,51.98,207.93,Digital Wallet,4/24/24,In-store,Wednesday
+4529,Shopping,Shoes,1.0,184.1,184.1,Credit Card,8/23/23,Online,Wednesday
+4530,Shopping,Shoes,1.0,45.6,45.6,Credit Card,11/11/23,In-store,Saturday
+4556,Shopping,Electronics,1.0,957.85,957.85,Digital Wallet,3/19/23,In-store,Sunday
+4564,Shopping,Clothes,3.0,133.74,401.22,Digital Wallet,2/17/23,In-store,Friday
+4577,Shopping,Car,4.0,21300.62,85202.48,Digital Wallet,7/24/23,In-store,Monday
+4591,Shopping,Car,1.0,47355.31,47355.31,Credit Card,3/6/24,In-store,Wednesday
+4597,Shopping,Electronics,1.0,1009.13,1009.13,Cash,8/21/23,In-store,Monday
+4604,Shopping,Shoes,1.0,193.56,193.56,Cash,2/7/24,In-store,Wednesday
+4607,Shopping,Clothes,1.0,87.15,87.15,Debit Card,6/24/23,In-store,Saturday
+4608,Shopping,Shoes,4.0,194.78,779.1,Credit Card,3/18/23,Online,Saturday
+4617,Shopping,Shoes,1.0,73.8,73.8,Credit Card,6/22/23,Online,Thursday
+4618,Shopping,Clothes,4.0,109.09,436.35,Cash,1/9/23,Online,Monday
+4628,Shopping,Shoes,2.0,125.79,251.58,Debit Card,10/25/23,Online,Wednesday
+4634,Shopping,Electronics,4.0,1073.57,4294.26,Cash,3/12/23,Online,Sunday
+4642,Shopping,Clothes,4.0,145.67,582.67,Digital Wallet,8/18/24,Online,Sunday
+4670,Shopping,Car,3.0,58765.86,176297.59,Credit Card,3/23/23,In-store,Thursday
+4676,Shopping,Car,1.0,10756.37,10756.37,Digital Wallet,6/1/23,In-store,Thursday
+4681,Shopping,Clothes,5.0,51.91,259.56,Credit Card,6/13/23,In-store,Tuesday
+4683,Shopping,Electronics,1.0,1384.41,1384.41,Digital Wallet,7/25/24,Online,Thursday
+4692,Shopping,Car,4.0,60208.46,240833.83,Credit Card,11/16/23,Online,Thursday
+4705,Shopping,Car,4.0,67782.48,271129.92,Credit Card,12/19/23,In-store,Tuesday
+4708,Shopping,Shoes,2.0,63.7,127.41,Cash,1/9/25,In-store,Thursday
+4709,Shopping,Shoes,5.0,186.75,933.74,Credit Card,1/14/23,In-store,Saturday
+4711,Shopping,Clothes,1.0,135.63,135.63,Debit Card,9/4/23,In-store,Monday
+4725,Shopping,Electronics,1.0,285.33,285.33,Digital Wallet,2/13/23,In-store,Monday
+4727,Shopping,Car,2.0,21395.4,42790.8,Credit Card,12/30/24,In-store,Monday
+4748,Shopping,Electronics,1.0,589.45,589.45,Digital Wallet,10/23/23,In-store,Monday
+4755,Shopping,Car,3.0,43952.84,131858.51,Credit Card,2/17/24,Online,Saturday
+4762,Shopping,Shoes,1.0,48.73,48.73,Credit Card,3/5/24,Online,Tuesday
+4768,Shopping,Shoes,2.0,114.95,229.9,Digital Wallet,4/14/23,Online,Friday
+4798,Shopping,Clothes,2.0,29.44,58.87,Digital Wallet,7/11/24,Online,Thursday
+4834,Shopping,Car,4.0,59370.79,237483.15,Credit Card,7/14/23,Online,Friday
+4836,Shopping,Car,5.0,5527.28,27636.39,Cash,10/24/23,Online,Tuesday
+4877,Shopping,Car,1.0,16821.62,16821.62,Debit Card,1/19/23,In-store,Thursday
+4879,Shopping,Shoes,3.0,110.03,330.09,Credit Card,1/11/23,Online,Wednesday
+4885,Shopping,Clothes,4.0,82.58,330.34,Cash,1/28/23,Online,Saturday
+4889,Shopping,Clothes,1.0,47.8,47.8,Cash,1/7/24,Online,Sunday
+4899,Shopping,Clothes,4.0,111.42,445.69,Cash,4/12/24,Online,Friday
+4934,Shopping,Shoes,4.0,145.39,581.55,Cash,12/31/24,In-store,Tuesday
+4943,Shopping,Electronics,3.0,1394.46,4183.38,Credit Card,1/2/25,In-store,Thursday
+4960,Shopping,Electronics,2.0,1004.08,2008.17,Debit Card,8/1/23,In-store,Tuesday
+4978,Shopping,Car,1.0,57440.86,57440.86,Credit Card,10/12/23,Online,Thursday
+4989,Shopping,Car,5.0,11962.5,59812.5,Credit Card,1/28/24,Online,Sunday
+4994,Shopping,Electronics,4.0,1216.14,4864.58,Credit Card,5/28/24,Online,Tuesday
+5004,Shopping,Clothes,4.0,124.78,499.12,Digital Wallet,4/19/24,In-store,Friday
+5007,Shopping,Shoes,3.0,113.88,341.63,Debit Card,12/26/24,In-store,Thursday
+5056,Shopping,Electronics,2.0,1405.82,2811.64,Credit Card,1/19/24,Online,Friday
+5057,Shopping,Shoes,5.0,156.41,782.06,Cash,1/13/25,Online,Monday
+5059,Shopping,Electronics,1.0,1487.04,1487.04,Digital Wallet,4/22/23,In-store,Saturday
+5065,Shopping,Shoes,1.0,158.79,158.79,Credit Card,7/30/24,Online,Tuesday
+5070,Shopping,Electronics,4.0,1195.14,4780.56,Digital Wallet,12/25/24,Online,Wednesday
+5079,Shopping,Car,5.0,59077.45,295387.25,Cash,1/24/23,Online,Tuesday
+5096,Shopping,Electronics,4.0,1183.76,4735.03,Debit Card,1/4/25,Online,Saturday
+5108,Shopping,Electronics,2.0,368.08,736.16,Debit Card,7/7/23,In-store,Friday
+5113,Shopping,Clothes,4.0,42.15,168.6,Debit Card,2/15/24,In-store,Thursday
+5134,Shopping,Clothes,3.0,20.77,62.32,Digital Wallet,7/5/24,Online,Friday
+5139,Shopping,Clothes,1.0,78.91,78.91,Credit Card,11/9/24,Online,Saturday
+5151,Shopping,Clothes,2.0,32.59,65.17,Cash,12/10/24,Online,Tuesday
+5168,Shopping,Electronics,5.0,1009.72,5048.6,Cash,11/21/24,In-store,Thursday
+5208,Shopping,Electronics,5.0,498.77,2493.83,Credit Card,6/26/23,In-store,Monday
+5256,Shopping,Car,4.0,52837.5,211350.01,Cash,2/6/24,Online,Tuesday
+5284,Shopping,Car,4.0,29012.96,116051.83,Cash,8/15/24,Online,Thursday
+5292,Shopping,Shoes,1.0,45.26,45.26,Digital Wallet,2/19/24,In-store,Monday
+5297,Shopping,Clothes,5.0,144.54,722.69,Debit Card,8/25/24,In-store,Sunday
+5303,Shopping,Clothes,1.0,39.96,39.96,Cash,8/17/24,Online,Saturday
+5311,Shopping,Shoes,4.0,174.03,696.11,Credit Card,4/29/24,In-store,Monday
+5327,Shopping,Electronics,4.0,598.76,2395.06,Debit Card,8/13/24,Online,Tuesday
+5333,Shopping,Car,5.0,49335.97,246679.84,Cash,2/20/23,In-store,Monday
+5346,Shopping,Shoes,2.0,104.53,209.06,Digital Wallet,7/14/23,In-store,Friday
+5359,Shopping,Electronics,4.0,948.95,3795.8,Credit Card,12/2/23,Online,Saturday
+5366,Shopping,Clothes,2.0,148.1,296.2,Credit Card,1/7/25,Online,Tuesday
+5369,Shopping,Electronics,3.0,936.83,2810.49,Debit Card,5/24/24,Online,Friday
+5370,Shopping,Shoes,1.0,117.95,117.95,Debit Card,2/5/24,Online,Monday
+5427,Shopping,Electronics,2.0,395.71,791.42,Digital Wallet,8/1/23,In-store,Tuesday
+5438,Shopping,Electronics,2.0,1036.21,2072.41,Debit Card,4/10/23,In-store,Monday
+5482,Shopping,Clothes,2.0,57.28,114.56,Debit Card,12/13/23,In-store,Wednesday
+5525,Shopping,Car,2.0,73800.12,147600.24,Credit Card,7/20/24,Online,Saturday
+5540,Shopping,Clothes,1.0,128.95,128.95,Digital Wallet,12/23/24,Online,Monday
+5550,Shopping,Clothes,2.0,70.22,140.43,Digital Wallet,6/2/23,In-store,Friday
+5556,Shopping,Clothes,2.0,119.06,238.12,Credit Card,8/30/24,Online,Friday
+5567,Shopping,Shoes,1.0,64.26,64.26,Digital Wallet,12/13/24,In-store,Friday
+5586,Shopping,Shoes,3.0,187.07,561.21,Debit Card,10/1/23,Online,Sunday
+5595,Shopping,Electronics,5.0,555.15,2775.76,Cash,11/14/23,Online,Tuesday
+5630,Shopping,Clothes,4.0,37.31,149.24,Digital Wallet,10/7/24,In-store,Monday
+5631,Shopping,Shoes,1.0,100.13,100.13,Credit Card,8/19/23,In-store,Saturday
+5687,Shopping,Shoes,3.0,43.64,130.93,Cash,7/5/23,In-store,Wednesday
+5690,Shopping,Clothes,3.0,118.43,355.3,Cash,8/1/24,Online,Thursday
+5709,Shopping,Shoes,1.0,178.35,178.35,Cash,2/24/23,Online,Friday
+5759,Shopping,Electronics,5.0,916.05,4580.25,Cash,2/9/23,In-store,Thursday
+5770,Shopping,Shoes,1.0,115.24,115.24,Cash,2/7/23,Online,Tuesday
+5785,Shopping,Car,1.0,48135.64,48135.64,Credit Card,4/30/24,In-store,Tuesday
+5820,Shopping,Electronics,5.0,1240.96,6204.78,Digital Wallet,5/8/23,Online,Monday
+5822,Shopping,Clothes,1.0,83.37,83.37,Debit Card,2/12/24,In-store,Monday
+5823,Shopping,Electronics,5.0,581.89,2909.46,Cash,8/5/23,Online,Saturday
+5843,Shopping,Car,5.0,34116.68,170583.42,Credit Card,7/31/24,Online,Wednesday
+5865,Shopping,Electronics,4.0,1397.26,5589.05,Digital Wallet,3/3/24,In-store,Sunday
+5866,Shopping,Car,4.0,69514.26,278057.06,Digital Wallet,11/22/24,In-store,Friday
+5872,Shopping,Electronics,2.0,647.2,1294.4,Digital Wallet,1/13/25,Online,Monday
+5880,Shopping,Electronics,2.0,1273.43,2546.86,Debit Card,8/26/24,Online,Monday
+5929,Shopping,Shoes,1.0,199.39,199.39,Credit Card,5/12/24,In-store,Sunday
+5952,Shopping,Clothes,3.0,106.69,320.08,Debit Card,1/2/24,Online,Tuesday
+5971,Shopping,Clothes,1.0,30.01,30.01,Debit Card,12/6/23,Online,Wednesday
+6001,Shopping,Electronics,2.0,1023.98,2047.97,Credit Card,7/3/24,In-store,Wednesday
+6005,Shopping,Electronics,1.0,537.29,537.29,Digital Wallet,6/13/23,Online,Tuesday
+6035,Shopping,Electronics,4.0,307.95,1231.79,Digital Wallet,2/26/23,In-store,Sunday
+6064,Shopping,Clothes,1.0,28.83,28.83,Cash,6/24/24,In-store,Monday
+6089,Shopping,Car,5.0,59480.68,297403.4,Digital Wallet,11/24/23,In-store,Friday
+6103,Shopping,Clothes,1.0,127.92,127.92,Debit Card,5/25/23,Online,Thursday
+6121,Shopping,Shoes,2.0,106.81,213.61,Debit Card,8/31/24,Online,Saturday
+6147,Shopping,Clothes,2.0,59.15,118.31,Digital Wallet,3/23/24,In-store,Saturday
+6151,Shopping,Clothes,1.0,36.51,36.51,Digital Wallet,5/25/24,Online,Saturday
+6175,Shopping,Shoes,1.0,42.31,42.31,Cash,1/21/23,Online,Saturday
+6180,Shopping,Clothes,5.0,47.04,235.21,Digital Wallet,5/28/24,In-store,Tuesday
+6199,Shopping,Shoes,4.0,89.09,356.37,Digital Wallet,6/11/23,In-store,Sunday
+6209,Shopping,Car,4.0,51273.33,205093.33,Credit Card,3/16/24,In-store,Saturday
+6212,Shopping,Car,1.0,38659.88,38659.88,Credit Card,10/2/23,Online,Monday
+6238,Shopping,Electronics,1.0,150.99,150.99,Debit Card,4/19/24,In-store,Friday
+6243,Shopping,Car,1.0,5864.97,5864.97,Digital Wallet,8/16/23,Online,Wednesday
+6255,Shopping,Shoes,5.0,179.64,898.2,Cash,1/13/24,In-store,Saturday
+6278,Shopping,Shoes,3.0,116.75,350.25,Debit Card,8/2/23,Online,Wednesday
+6284,Shopping,Shoes,2.0,156.13,312.27,Cash,8/17/24,In-store,Saturday
+6285,Shopping,Shoes,5.0,63.57,317.86,Debit Card,8/21/24,In-store,Wednesday
+6323,Shopping,Car,1.0,22661.24,22661.24,Digital Wallet,1/17/23,In-store,Tuesday
+6343,Shopping,Car,2.0,53313.07,106626.13,Credit Card,9/2/24,Online,Monday
+6347,Shopping,Car,2.0,45334.26,90668.52,Digital Wallet,8/21/23,In-store,Monday
+6359,Shopping,Shoes,4.0,128.93,515.73,Credit Card,5/1/23,Online,Monday
+6360,Shopping,Shoes,2.0,66.59,133.19,Debit Card,10/22/24,In-store,Tuesday
+6410,Shopping,Shoes,3.0,144.72,434.17,Digital Wallet,9/29/23,In-store,Friday
+6422,Shopping,Shoes,4.0,197.31,789.23,Cash,11/12/24,Online,Tuesday
+6434,Shopping,Clothes,3.0,135.45,406.35,Digital Wallet,5/7/23,Online,Sunday
+6438,Shopping,Clothes,4.0,66.64,266.57,Cash,3/4/23,Online,Saturday
+6447,Shopping,Shoes,4.0,84.39,337.54,Credit Card,3/31/24,Online,Sunday
+6458,Shopping,Shoes,4.0,149.48,597.92,Cash,10/31/24,In-store,Thursday
+6467,Shopping,Car,5.0,63844.08,319220.4,Credit Card,12/22/23,Online,Friday
+6475,Shopping,Shoes,1.0,57.92,57.92,Digital Wallet,11/12/23,Online,Sunday
+6480,Shopping,Clothes,4.0,103.53,414.12,Credit Card,9/1/24,Online,Sunday
+6485,Shopping,Shoes,5.0,72.27,361.33,Credit Card,1/27/23,Online,Friday
+6533,Shopping,Shoes,1.0,188.28,188.28,Cash,5/24/24,In-store,Friday
+6542,Shopping,Clothes,4.0,111.24,444.98,Debit Card,7/25/24,Online,Thursday
+6546,Shopping,Car,4.0,18151.23,72604.92,Debit Card,10/17/24,In-store,Thursday
+6556,Shopping,Shoes,5.0,81.06,405.28,Debit Card,12/21/23,Online,Thursday
+6560,Shopping,Electronics,1.0,260.66,260.66,Credit Card,4/19/24,Online,Friday
+6571,Shopping,Shoes,2.0,64.72,129.44,Credit Card,9/22/24,In-store,Sunday
+6593,Shopping,Clothes,1.0,95.1,95.1,Credit Card,7/17/23,Online,Monday
+6600,Shopping,Clothes,1.0,119.28,119.28,Cash,10/21/24,Online,Monday
+6601,Shopping,Shoes,4.0,186.56,746.26,Credit Card,4/24/23,Online,Monday
+6609,Shopping,Electronics,2.0,190.97,381.93,Credit Card,3/20/24,Online,Wednesday
+6611,Shopping,Shoes,4.0,113.59,454.35,Credit Card,5/11/24,Online,Saturday
+6617,Shopping,Shoes,4.0,132.19,528.75,Cash,11/16/23,In-store,Thursday
+6624,Shopping,Shoes,5.0,193.78,968.88,Digital Wallet,10/14/24,Online,Monday
+6641,Shopping,Shoes,4.0,46.75,187.01,Digital Wallet,9/14/23,In-store,Thursday
+6650,Shopping,Car,1.0,2805.38,2805.38,Credit Card,10/7/24,In-store,Monday
+6651,Shopping,Electronics,3.0,118.72,356.16,Credit Card,12/19/24,Online,Thursday
+6653,Shopping,Clothes,1.0,78.47,78.47,Debit Card,12/13/23,Online,Wednesday
+6683,Shopping,Car,2.0,26162.63,52325.26,Credit Card,4/6/23,Online,Thursday
+6708,Shopping,Clothes,2.0,86.8,173.61,Debit Card,6/17/23,In-store,Saturday
+6713,Shopping,Shoes,2.0,36.35,72.7,Digital Wallet,4/20/23,Online,Thursday
+6722,Shopping,Electronics,3.0,804.21,2412.62,Digital Wallet,4/10/24,In-store,Wednesday
+6727,Shopping,Electronics,4.0,1293.7,5174.81,Digital Wallet,11/6/24,Online,Wednesday
+6728,Shopping,Car,4.0,13336.25,53345.01,Digital Wallet,1/30/24,In-store,Tuesday
+6747,Shopping,Electronics,5.0,978.48,4892.41,Digital Wallet,8/12/23,In-store,Saturday
+6789,Shopping,Shoes,1.0,115.22,115.22,Cash,6/4/24,In-store,Tuesday
+6799,Shopping,Shoes,4.0,137.53,550.12,Credit Card,12/22/24,In-store,Sunday
+6805,Shopping,Car,1.0,71736.42,71736.42,Digital Wallet,9/19/23,In-store,Tuesday
+6832,Shopping,Clothes,4.0,51.72,206.89,Digital Wallet,4/12/23,Online,Wednesday
+6838,Shopping,Car,5.0,41251.64,206258.18,Cash,12/21/23,In-store,Thursday
+6848,Shopping,Electronics,4.0,533.74,2134.97,Cash,8/30/23,In-store,Wednesday
+6873,Shopping,Electronics,2.0,854.66,1709.32,Cash,11/5/23,Online,Sunday
+6886,Shopping,Clothes,1.0,32.65,32.65,Credit Card,4/22/24,Online,Monday
+6893,Shopping,Shoes,3.0,71.79,215.38,Digital Wallet,4/24/23,In-store,Monday
+6906,Shopping,Car,4.0,72942.51,291770.06,Cash,9/20/24,Online,Friday
+6921,Shopping,Electronics,3.0,1330.36,3991.09,Digital Wallet,1/2/23,In-store,Monday
+6931,Shopping,Shoes,4.0,42.1,168.4,Digital Wallet,5/30/23,Online,Tuesday
+6957,Shopping,Car,1.0,49941.02,49941.02,Debit Card,4/4/24,In-store,Thursday
+6959,Shopping,Shoes,3.0,127.58,382.74,Digital Wallet,11/4/23,Online,Saturday
+6976,Shopping,Clothes,1.0,100.86,100.86,Digital Wallet,4/8/24,In-store,Monday
+6979,Shopping,Electronics,2.0,1287.44,2574.88,Cash,1/15/24,In-store,Monday
+7048,Shopping,Shoes,4.0,138.17,552.67,Debit Card,6/17/24,Online,Monday
+7065,Shopping,Clothes,1.0,85.12,85.12,Credit Card,5/7/23,In-store,Sunday
+7088,Shopping,Shoes,1.0,178.66,178.66,Cash,8/31/24,Online,Saturday
+7099,Shopping,Clothes,3.0,76.16,228.47,Digital Wallet,6/9/23,Online,Friday
+7116,Shopping,Clothes,1.0,51.55,51.55,Cash,9/23/24,In-store,Monday
+7118,Shopping,Electronics,1.0,897.22,897.22,Credit Card,11/18/24,In-store,Monday
+7119,Shopping,Electronics,2.0,592.48,1184.97,Debit Card,1/11/23,In-store,Wednesday
+7142,Shopping,Car,4.0,60480.43,241921.72,Credit Card,4/27/23,Online,Thursday
+7144,Shopping,Clothes,3.0,121.84,365.53,Cash,11/22/24,Online,Friday
+7147,Shopping,Car,3.0,73990.6,221971.79,Digital Wallet,7/25/23,In-store,Tuesday
+7180,Shopping,Car,4.0,43771.03,175084.14,Digital Wallet,4/18/23,Online,Tuesday
+7203,Shopping,Car,1.0,58087.43,58087.43,Cash,12/4/23,In-store,Monday
+7206,Shopping,Shoes,1.0,93.98,93.98,Debit Card,5/6/24,In-store,Monday
+7218,Shopping,Electronics,2.0,1207.73,2415.46,Digital Wallet,8/3/23,Online,Thursday
+7229,Shopping,Electronics,4.0,796.51,3186.02,Debit Card,3/22/24,Online,Friday
+7240,Shopping,Clothes,4.0,142.55,570.21,Debit Card,10/12/23,Online,Thursday
+7243,Shopping,Shoes,2.0,193.32,386.63,Cash,8/8/24,In-store,Thursday
+7247,Shopping,Car,1.0,55633.78,55633.78,Credit Card,11/30/24,In-store,Saturday
+7256,Shopping,Car,5.0,63439.56,317197.82,Cash,3/18/24,In-store,Monday
+7297,Shopping,Car,5.0,14512.38,72561.91,Cash,4/5/23,In-store,Wednesday
+7302,Shopping,Shoes,5.0,40.97,204.87,Cash,3/7/23,Online,Tuesday
+7310,Shopping,Clothes,1.0,121.56,121.56,Digital Wallet,5/14/24,Online,Tuesday
+7313,Shopping,Shoes,2.0,84.47,168.93,Cash,5/28/24,Online,Tuesday
+7331,Shopping,Electronics,3.0,1229.17,3687.52,Credit Card,6/10/23,In-store,Saturday
+7354,Shopping,Shoes,2.0,133.84,267.68,Debit Card,11/11/23,In-store,Saturday
+7373,Shopping,Clothes,2.0,59.64,119.28,Cash,12/3/24,In-store,Tuesday
+7376,Shopping,Electronics,3.0,667.16,2001.48,Digital Wallet,12/5/24,Online,Thursday
+7391,Shopping,Clothes,5.0,68.16,340.8,Debit Card,8/26/23,Online,Saturday
+7404,Shopping,Shoes,5.0,160.46,802.28,Digital Wallet,1/10/25,In-store,Friday
+7406,Shopping,Electronics,5.0,245.63,1228.14,Credit Card,5/5/23,In-store,Friday
+7413,Shopping,Electronics,2.0,767.03,1534.07,Credit Card,12/9/24,In-store,Monday
+7421,Shopping,Clothes,1.0,59.98,59.98,Credit Card,3/31/23,Online,Friday
+7429,Shopping,Car,3.0,29546.57,88639.7,Cash,2/24/24,Online,Saturday
+7430,Shopping,Clothes,3.0,30.06,90.19,Debit Card,5/25/24,In-store,Saturday
+7471,Shopping,Clothes,3.0,31.26,93.77,Credit Card,10/4/23,In-store,Wednesday
+7472,Shopping,Car,3.0,59785.64,179356.93,Cash,6/8/23,In-store,Thursday
+7492,Shopping,Electronics,5.0,586.63,2933.17,Credit Card,3/9/24,Online,Saturday
+7495,Shopping,Car,5.0,30400.88,152004.39,Credit Card,4/10/23,Online,Monday
+7508,Shopping,Clothes,4.0,79.48,317.94,Digital Wallet,7/27/24,In-store,Saturday
+7530,Shopping,Shoes,4.0,96.66,386.63,Debit Card,2/11/24,Online,Sunday
+7541,Shopping,Car,4.0,22071.72,88286.88,Digital Wallet,10/4/23,In-store,Wednesday
+7545,Shopping,Electronics,1.0,1105.9,1105.9,Digital Wallet,7/7/23,In-store,Friday
+7561,Shopping,Car,4.0,10267.38,41069.54,Cash,1/9/23,Online,Monday
+7587,Shopping,Electronics,3.0,1015.53,3046.6,Debit Card,4/18/23,Online,Tuesday
+7589,Shopping,Electronics,3.0,628.0,1884.01,Credit Card,2/28/23,Online,Tuesday
+7594,Shopping,Car,1.0,59697.35,59697.35,Cash,9/23/24,Online,Monday
+7607,Shopping,Clothes,3.0,109.79,329.38,Cash,11/13/23,Online,Monday
+7618,Shopping,Car,4.0,11399.1,45596.39,Credit Card,1/12/23,In-store,Thursday
+7626,Shopping,Car,1.0,17942.38,17942.38,Credit Card,9/6/24,Online,Friday
+7659,Shopping,Clothes,5.0,75.13,375.63,Debit Card,4/8/23,Online,Saturday
+7687,Shopping,Shoes,5.0,30.35,151.74,Credit Card,1/10/25,Online,Friday
+7707,Shopping,Shoes,1.0,79.49,79.49,Cash,6/21/23,In-store,Wednesday
+7731,Shopping,Car,4.0,55831.63,223326.51,Cash,11/23/24,In-store,Saturday
+7762,Shopping,Shoes,3.0,82.29,246.88,Digital Wallet,3/28/23,Online,Tuesday
+7764,Shopping,Car,2.0,45790.72,91581.45,Debit Card,3/17/24,In-store,Sunday
+7773,Shopping,Car,3.0,3371.48,10114.45,Credit Card,9/29/24,In-store,Sunday
+7780,Shopping,Clothes,1.0,28.57,28.57,Digital Wallet,8/17/23,Online,Thursday
+7787,Shopping,Electronics,4.0,1292.51,5170.03,Credit Card,2/13/24,Online,Tuesday
+7790,Shopping,Shoes,4.0,176.37,705.5,Digital Wallet,11/22/23,In-store,Wednesday
+7793,Shopping,Electronics,5.0,764.84,3824.22,Digital Wallet,11/6/23,In-store,Monday
+7816,Shopping,Shoes,5.0,156.45,782.25,Credit Card,1/31/24,Online,Wednesday
+7821,Shopping,Shoes,5.0,141.94,709.7,Cash,3/11/24,In-store,Monday
+7828,Shopping,Car,5.0,40954.46,204772.28,Digital Wallet,7/8/24,Online,Monday
+7831,Shopping,Electronics,2.0,222.84,445.68,Digital Wallet,6/2/23,Online,Friday
+7837,Shopping,Car,5.0,65025.41,325127.03,Cash,6/30/23,Online,Friday
+7865,Shopping,Car,5.0,34265.57,171327.87,Digital Wallet,1/3/23,In-store,Tuesday
+7873,Shopping,Clothes,1.0,89.48,89.48,Cash,6/21/23,Online,Wednesday
+7916,Shopping,Electronics,4.0,1205.04,4820.15,Digital Wallet,1/10/25,Online,Friday
+7924,Shopping,Shoes,1.0,175.81,175.81,Credit Card,8/7/24,Online,Wednesday
+7930,Shopping,Car,5.0,17635.62,88178.1,Debit Card,12/1/24,Online,Sunday
+7937,Shopping,Clothes,5.0,20.79,103.95,Credit Card,6/6/23,In-store,Tuesday
+7960,Shopping,Shoes,1.0,67.44,67.44,Cash,7/31/23,In-store,Monday
+7962,Shopping,Shoes,2.0,138.51,277.01,Digital Wallet,1/2/25,Online,Thursday
+8006,Shopping,Electronics,5.0,1430.86,7154.32,Cash,12/14/24,Online,Saturday
+8015,Shopping,Electronics,1.0,425.34,425.34,Debit Card,5/14/24,In-store,Tuesday
+8027,Shopping,Clothes,2.0,123.13,246.26,Cash,4/25/23,In-store,Tuesday
+8036,Shopping,Clothes,2.0,55.2,110.4,Debit Card,1/30/23,In-store,Monday
+8048,Shopping,Electronics,1.0,956.21,956.21,Cash,11/1/23,In-store,Wednesday
+8055,Shopping,Car,2.0,2517.19,5034.38,Cash,6/17/23,Online,Saturday
+8102,Shopping,Car,2.0,47128.88,94257.77,Credit Card,6/30/24,Online,Sunday
+8131,Shopping,Electronics,3.0,654.06,1962.18,Debit Card,8/29/24,Online,Thursday
+8138,Shopping,Electronics,1.0,957.14,957.14,Debit Card,1/30/23,In-store,Monday
+8196,Shopping,Shoes,3.0,197.63,592.89,Cash,5/3/24,Online,Friday
+8238,Shopping,Electronics,3.0,1003.01,3009.02,Digital Wallet,9/10/24,Online,Tuesday
+8247,Shopping,Clothes,2.0,90.02,180.04,Cash,12/18/23,In-store,Monday
+8251,Shopping,Shoes,2.0,114.26,228.51,Debit Card,9/19/23,In-store,Tuesday
+8253,Shopping,Clothes,3.0,44.97,134.92,Digital Wallet,4/2/23,In-store,Sunday
+8279,Shopping,Car,2.0,69562.98,139125.95,Digital Wallet,10/5/24,In-store,Saturday
+8292,Shopping,Electronics,4.0,1284.43,5137.72,Digital Wallet,8/22/23,Online,Tuesday
+8296,Shopping,Car,4.0,32137.55,128550.18,Digital Wallet,7/17/24,Online,Wednesday
+8301,Shopping,Car,2.0,7331.08,14662.15,Debit Card,5/1/23,In-store,Monday
+8305,Shopping,Car,1.0,22104.35,22104.35,Digital Wallet,3/2/23,In-store,Thursday
+8317,Shopping,Electronics,1.0,613.44,613.44,Credit Card,8/4/23,In-store,Friday
+8320,Shopping,Electronics,2.0,361.53,723.06,Digital Wallet,10/6/24,In-store,Sunday
+8331,Shopping,Shoes,4.0,48.59,194.35,Cash,2/28/24,In-store,Wednesday
+8352,Shopping,Clothes,4.0,121.23,484.92,Digital Wallet,10/6/24,In-store,Sunday
+8362,Shopping,Car,4.0,16224.9,64899.6,Cash,3/1/23,In-store,Wednesday
+8368,Shopping,Clothes,2.0,114.6,229.21,Cash,11/3/23,In-store,Friday
+8371,Shopping,Electronics,1.0,841.56,841.56,Debit Card,6/21/23,In-store,Wednesday
+8406,Shopping,Shoes,4.0,166.48,665.93,Digital Wallet,1/10/23,Online,Tuesday
+8434,Shopping,Electronics,4.0,321.11,1284.42,Debit Card,10/26/23,In-store,Thursday
+8435,Shopping,Car,2.0,3965.45,7930.89,Digital Wallet,12/11/23,In-store,Monday
+8441,Shopping,Clothes,5.0,46.69,233.45,Credit Card,12/7/24,In-store,Saturday
+8442,Shopping,Car,4.0,10099.35,40397.4,Digital Wallet,10/11/23,Online,Wednesday
+8478,Shopping,Car,5.0,67523.51,337617.55,Digital Wallet,10/7/23,Online,Saturday
+8486,Shopping,Shoes,4.0,157.05,628.21,Credit Card,3/31/23,In-store,Friday
+8499,Shopping,Car,3.0,11522.5,34567.49,Digital Wallet,3/1/24,In-store,Friday
+8524,Shopping,Electronics,4.0,658.63,2634.51,Debit Card,2/8/24,In-store,Thursday
+8535,Shopping,Electronics,4.0,1068.85,4275.4,Cash,5/15/24,In-store,Wednesday
+8559,Shopping,Shoes,3.0,85.64,256.92,Debit Card,12/1/23,Online,Friday
+8584,Shopping,Electronics,3.0,834.87,2504.62,Credit Card,1/3/25,Online,Friday
+8627,Shopping,Electronics,1.0,1066.59,1066.59,Digital Wallet,11/24/24,Online,Sunday
+8645,Shopping,Electronics,1.0,447.5,447.5,Credit Card,5/6/24,Online,Monday
+8659,Shopping,Shoes,4.0,52.53,210.12,Debit Card,12/18/23,In-store,Monday
+8668,Shopping,Clothes,3.0,126.43,379.29,Cash,6/14/23,In-store,Wednesday
+8674,Shopping,Electronics,2.0,468.45,936.89,Debit Card,1/7/23,In-store,Saturday
+8715,Shopping,Electronics,3.0,1303.17,3909.51,Cash,1/26/24,In-store,Friday
+8724,Shopping,Shoes,4.0,55.82,223.3,Debit Card,5/22/23,Online,Monday
+8728,Shopping,Electronics,3.0,478.95,1436.85,Debit Card,11/29/23,Online,Wednesday
+8735,Shopping,Car,4.0,26881.34,107525.35,Digital Wallet,6/12/24,Online,Wednesday
+8749,Shopping,Car,1.0,57114.66,57114.66,Digital Wallet,10/15/24,Online,Tuesday
+8751,Shopping,Shoes,3.0,131.5,394.51,Credit Card,6/14/24,Online,Friday
+8782,Shopping,Car,4.0,42301.85,169207.4,Digital Wallet,12/31/24,In-store,Tuesday
+8785,Shopping,Car,1.0,31702.66,31702.66,Credit Card,3/18/23,In-store,Saturday
+8808,Shopping,Shoes,2.0,98.96,197.92,Debit Card,9/29/23,In-store,Friday
+8826,Shopping,Shoes,1.0,64.61,64.61,Credit Card,7/30/23,Online,Sunday
+8842,Shopping,Car,2.0,21152.1,42304.21,Cash,5/18/24,Online,Saturday
+8843,Shopping,Shoes,2.0,51.86,103.72,Digital Wallet,12/8/23,Online,Friday
+8852,Shopping,Clothes,5.0,90.44,452.19,Digital Wallet,1/18/23,Online,Wednesday
+8881,Shopping,Clothes,4.0,58.9,235.61,Debit Card,7/9/23,In-store,Sunday
+8889,Shopping,Electronics,5.0,884.22,4421.08,Digital Wallet,11/28/24,In-store,Thursday
+8890,Shopping,Shoes,5.0,137.62,688.11,Debit Card,8/17/23,In-store,Thursday
+8900,Shopping,Shoes,1.0,74.82,74.82,Debit Card,10/31/24,In-store,Thursday
+8923,Shopping,Electronics,2.0,1228.13,2456.25,Credit Card,5/26/24,In-store,Sunday
+8926,Shopping,Car,4.0,25014.09,100056.35,Debit Card,3/14/23,In-store,Tuesday
+8949,Shopping,Electronics,5.0,1178.96,5894.78,Credit Card,6/21/24,In-store,Friday
+8951,Shopping,Car,4.0,19084.29,76337.16,Credit Card,7/1/24,Online,Monday
+8964,Shopping,Clothes,1.0,113.48,113.48,Digital Wallet,11/28/24,Online,Thursday
+8973,Shopping,Shoes,2.0,74.53,149.06,Debit Card,7/21/24,In-store,Sunday
+8976,Shopping,Car,2.0,42194.65,84389.3,Digital Wallet,9/16/24,In-store,Monday
+9034,Shopping,Car,3.0,73334.25,220002.74,Digital Wallet,6/12/23,In-store,Monday
+9076,Shopping,Shoes,5.0,145.65,728.27,Credit Card,7/7/24,Online,Sunday
+9097,Shopping,Shoes,2.0,40.7,81.4,Cash,2/3/23,In-store,Friday
+9101,Shopping,Car,5.0,38807.63,194038.15,Cash,12/2/24,Online,Monday
+9124,Shopping,Car,1.0,13942.06,13942.06,Digital Wallet,2/25/24,In-store,Sunday
+9125,Shopping,Clothes,1.0,49.47,49.47,Digital Wallet,1/4/25,In-store,Saturday
+9188,Shopping,Shoes,3.0,178.07,534.21,Cash,4/3/24,Online,Wednesday
+9195,Shopping,Clothes,3.0,98.0,294.0,Digital Wallet,10/23/23,In-store,Monday
+9203,Shopping,Car,2.0,68131.72,136263.44,Cash,10/28/23,In-store,Saturday
+9212,Shopping,Clothes,3.0,103.25,309.75,Cash,1/18/24,In-store,Thursday
+9245,Shopping,Car,3.0,71636.83,214910.5,Debit Card,3/2/24,Online,Saturday
+9255,Shopping,Clothes,4.0,70.26,281.04,Digital Wallet,9/15/24,Online,Sunday
+9256,Shopping,Clothes,4.0,139.9,559.62,Digital Wallet,5/6/24,In-store,Monday
+9259,Shopping,Car,1.0,19367.17,19367.17,Cash,10/18/23,In-store,Wednesday
+9276,Shopping,Clothes,3.0,98.98,296.95,Credit Card,8/29/24,Online,Thursday
+9303,Shopping,Shoes,5.0,153.45,767.26,Cash,1/3/25,Online,Friday
+9324,Shopping,Car,1.0,68982.29,68982.29,Credit Card,11/9/24,Online,Saturday
+9336,Shopping,Clothes,5.0,93.58,467.89,Cash,1/7/23,Online,Saturday
+9340,Shopping,Shoes,2.0,50.18,100.35,Digital Wallet,8/17/23,Online,Thursday
+9433,Shopping,Shoes,1.0,134.71,134.71,Cash,6/4/24,In-store,Tuesday
+9434,Shopping,Shoes,4.0,92.98,371.9,Cash,1/11/23,Online,Wednesday
+9440,Shopping,Car,3.0,17713.71,53141.12,Debit Card,1/2/24,In-store,Tuesday
+9455,Shopping,Car,4.0,69183.25,276733.01,Debit Card,1/15/23,Online,Sunday
+9458,Shopping,Car,3.0,57132.49,171397.48,Debit Card,5/12/24,Online,Sunday
+9476,Shopping,Clothes,3.0,43.46,130.39,Digital Wallet,10/8/24,In-store,Tuesday
+9485,Shopping,Car,5.0,24285.4,121426.99,Credit Card,6/28/24,Online,Friday
+9497,Shopping,Electronics,5.0,384.06,1920.29,Credit Card,12/14/24,Online,Saturday
+9526,Shopping,Electronics,5.0,932.27,4661.34,Cash,8/24/24,In-store,Saturday
+9529,Shopping,Electronics,2.0,468.38,936.76,Credit Card,7/4/24,In-store,Thursday
+9536,Shopping,Electronics,4.0,670.7,2682.81,Digital Wallet,7/1/23,Online,Saturday
+9550,Shopping,Electronics,5.0,585.43,2927.15,Credit Card,5/17/24,In-store,Friday
+9561,Shopping,Car,5.0,38056.76,190283.81,Credit Card,10/12/24,Online,Saturday
+9588,Shopping,Electronics,1.0,324.32,324.32,Cash,3/17/24,In-store,Sunday
+9596,Shopping,Clothes,5.0,120.8,603.98,Debit Card,11/9/24,In-store,Saturday
+9598,Shopping,Electronics,5.0,331.0,1655.02,Digital Wallet,1/4/23,Online,Wednesday
+9621,Shopping,Car,1.0,51052.81,51052.81,Credit Card,8/25/24,Online,Sunday
+9644,Shopping,Shoes,3.0,77.95,233.85,Cash,7/8/24,Online,Monday
+9659,Shopping,Car,4.0,14254.87,57019.46,Debit Card,12/1/24,Online,Sunday
+9671,Shopping,Car,2.0,18810.02,37620.04,Digital Wallet,9/17/24,Online,Tuesday
+9683,Shopping,Electronics,5.0,927.47,4637.35,Digital Wallet,9/1/24,In-store,Sunday
+9687,Shopping,Clothes,2.0,81.1,162.2,Credit Card,6/10/24,In-store,Monday
+9700,Shopping,Electronics,2.0,163.81,327.61,Digital Wallet,7/12/23,In-store,Wednesday
+9709,Shopping,Clothes,4.0,149.58,598.31,Debit Card,11/21/23,In-store,Tuesday
+9719,Shopping,Clothes,1.0,58.97,58.97,Debit Card,7/25/24,Online,Thursday
+9727,Shopping,Clothes,3.0,143.23,429.68,Cash,9/19/23,In-store,Tuesday
+9749,Shopping,Car,3.0,53596.53,160789.58,Cash,4/13/24,In-store,Saturday
+9761,Shopping,Clothes,4.0,43.56,174.24,Cash,3/6/23,Online,Monday
+9765,Shopping,Electronics,3.0,1453.84,4361.52,Credit Card,1/29/24,Online,Monday
+9786,Shopping,Car,5.0,39273.86,196369.28,Credit Card,3/25/23,Online,Saturday
+9787,Shopping,Car,2.0,28951.71,57903.41,Debit Card,9/2/24,In-store,Monday
+9807,Shopping,Shoes,2.0,77.24,154.47,Credit Card,1/4/24,In-store,Thursday
+9809,Shopping,Clothes,2.0,115.21,230.41,Digital Wallet,9/9/23,In-store,Saturday
+9840,Shopping,Shoes,1.0,156.8,156.8,Cash,1/29/24,Online,Monday
+9853,Shopping,Car,2.0,34157.5,68315.01,Cash,11/23/24,Online,Saturday
+9856,Shopping,Clothes,4.0,147.82,591.29,Credit Card,10/15/24,In-store,Tuesday
+9860,Shopping,Car,2.0,45640.76,91281.53,Cash,2/5/23,In-store,Sunday
+9882,Shopping,Car,3.0,72970.5,218911.5,Digital Wallet,2/12/24,In-store,Monday
+9884,Shopping,Shoes,3.0,44.47,133.41,Cash,8/6/24,Online,Tuesday
+9895,Shopping,Car,3.0,27587.08,82761.25,Cash,8/6/24,In-store,Tuesday
+9911,Shopping,Shoes,4.0,75.33,301.31,Debit Card,1/17/24,Online,Wednesday
+9917,Shopping,Electronics,4.0,599.67,2398.67,Credit Card,12/15/24,In-store,Sunday
+9937,Shopping,Shoes,4.0,186.3,745.2,Credit Card,8/14/24,Online,Wednesday
+9953,Shopping,Electronics,2.0,220.96,441.92,Digital Wallet,1/19/24,In-store,Friday
+9977,Shopping,Shoes,3.0,61.2,183.59,Credit Card,4/22/23,Online,Saturday
+9981,Shopping,Electronics,3.0,652.09,1956.28,Cash,5/13/24,Online,Monday
+9986,Shopping,Car,1.0,7477.15,7477.15,Digital Wallet,1/4/25,Online,Saturday
+9997,Shopping,Electronics,1.0,732.03,732.03,Debit Card,3/19/24,In-store,Tuesday
